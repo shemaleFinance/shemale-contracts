@@ -1,12 +1,12 @@
-# Viking Swap
+# Taste Finance
 
-https://www.vikingswap.finance Feel free to read the code. More details coming soon.
+https://taste.finance Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
 
-- VikingToken - https://bscscan.com/token/0x896eDE222D3f7f3414e136a2791BDB08AAa25Ce0
-- MasterChef - https://bscscan.com/address/0xEf6e807fD2c0Ef5883A03Ed1b962333E8C9b725f
-- Timelock - https://bscscan.com/address/0xc9d5dE27Cffa9F249211ac2CF5fD1f789d7018D5
+- TasteToken - https://bscscan.com/token/0x17EdC999C310e622F9623Dc8A5baa9EC1dDa6956
+- MasterChef - https://bscscan.com/address/0x30E2e8383e1D884C5bBA49648514B0A54092d474
+- Timelock - https://bscscan.com/address/0xFC58b6f74579385e8128Cb24a2A7b5718B04D79A
 - MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb

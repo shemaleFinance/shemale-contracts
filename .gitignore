@@ -7,3 +7,7 @@
 /test/
 /accounts.json
 /truffle-config.js
+/.env
+/.env.example
+/.DS_Store
+/yarn.lock
