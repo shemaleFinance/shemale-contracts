@@ -1,12 +1,12 @@
-# Taste Finance
+# Shemale Finance
 
-https://taste.finance Feel free to read the code. More details coming soon.
+https://shemale.finance Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
 ### BSCMAINNET
 
-- TasteToken - https://bscscan.com/token/0xF34b702924751434Bdf83Acc2766947d4c38fBEE
-- MasterChef - https://bscscan.com/address/0x9b47E796a868135B4B26c013E32BAD3876F4e43c
-- Timelock - https://bscscan.com/address/0x952d5b5Ca31DE0aA573AF21701693315c4291d04
-- MultiCall - https://bscscan.com/address/0x1ee38d535d541c55c9dae27b12edf090c608e6fb
+- ShemaleToken - https://bscscan.com/token/0x021443316C1a86b7bADb537F948bE82de4F67e69
+- MasterChef - https://bscscan.com/address/0x5c6E6f0F528e8c1F5a2b4B0bfeBD219f2dC2a714
+- Timelock - https://bscscan.com/address/0xCb3b70fEfA2f921d1798271EB45940FEDBE6dc9d
+- MultiCall - https://bscscan.com/address/0x1Ee38d535d541c55C9dae27B12edf090C608E6Fb
